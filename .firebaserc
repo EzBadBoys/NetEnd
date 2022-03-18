@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "netend-114a1"
-  }
+    "default": "netend-114a1",
+    "NetEnd": "netend-223a9"
+  },
+  "targets": {}
 }

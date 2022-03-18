@@ -216,7 +216,7 @@
 .section-title {
     position: relative;
     display: inline-block;
-    text-transform: uppercase;
+    text-transform: uppercase;2
 }
 
 .section-title::before {
